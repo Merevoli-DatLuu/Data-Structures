@@ -8,7 +8,7 @@
 5) Deque
 6) Priority_queue (Heap)
 7) Binary Tree
-8) Binary Index Tree
+8) Binary Search Tree
 
 ## Nâng Cao
 9) Red-Black Tree
